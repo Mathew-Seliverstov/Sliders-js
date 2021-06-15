@@ -3,4 +3,4 @@
 
 --------------------
 
-[live demo]()
+[live demo](https://mathew-seliverstov.github.io/Sliders-js/)
