@@ -139,7 +139,7 @@ button:focus {
 }
 
 .slide.active {
-  height: 85vh;
+  height: 60vh;
   width: 100%;
   flex: 50;
 }
