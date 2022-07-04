@@ -1,5 +1,5 @@
 # Sliders-js
-## Слайдер картинок выполненный на js/css/html
+Image slider made with js/css/html
 
 --------------------
 
